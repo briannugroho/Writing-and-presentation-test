@@ -282,7 +282,7 @@ Operator merupakan intruksi yang digunakan untuk melakukan suatu proses contohny
 - Assignment (=) digunakan untuk menyimpan nilai variable
 - Increment dan Decrement untuk menambah atau mengurangi nilai 
 - Arithmetic untuk melibatkan operasi matematika yang terdiri dari (+,-,*,/,%)
-- Comparison untuk membandingkan nilaisatu dengan lainya
+- Comparison untuk membandingkan nilai satu dengan lainya
 - Simbol operator(<,>,<=,>=,===,!==)
 - Logical operator(&&,||,!)
 
