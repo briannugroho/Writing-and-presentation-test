@@ -11,7 +11,7 @@ Shell Windows adalah Command Prompt serta file yang dapat dieksekusi adalah CMD.
 - Mengganti format file
 
 ### Perintah dasar CLI
-1. pwd memberikan informasidirektori aktif yang sedang diakses
+1. pwd memberikan informasi direktori aktif yang sedang diakses
 2. cd (change directory) untuk mengubah atau membuka direktori tertentu
 3. mkdir (make directory) untuk membuat folder atau direktori baru
 4. rmdir digunakan untuk menghapus direktori
@@ -41,7 +41,7 @@ Github adalah aplikasi atau website yang digunakan untuk menyimpan dan mengelola
 - git remote untuk membuat user terhubung ke remote repository
 
 ## Day 3 : HTML
-HTML adalah singkatan dari Hyper Markup Language yaitu bahasa markup untuk membuat dan menyusun halaman dan aplikasi web.Untuk menggunakan html perlu menuliskan tag dan atribut tertentu yang memiliki tag pembuka dan tag penutup.
+HTML adalah singkatan dari Hypertext Markup Language yaitu bahasa markup untuk membuat dan menyusun halaman dan aplikasi web.Untuk menggunakan html perlu menuliskan tag dan atribut tertentu yang memiliki tag pembuka dan tag penutup.
 ### Struktur HTML
 ```html
 <!DOCTYPE html>
